@@ -1,0 +1,18 @@
+c:\users\james\documents\visual studio 2013\Projects\loops\loops\bin\Debug\loops.exe.config
+c:\users\james\documents\visual studio 2013\Projects\loops\loops\bin\Debug\loops.exe
+c:\users\james\documents\visual studio 2013\Projects\loops\loops\bin\Debug\loops.pdb
+c:\users\james\documents\visual studio 2013\Projects\loops\loops\obj\Debug\loops.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2013\Projects\loops\loops\obj\Debug\loops.Form1.resources
+c:\users\james\documents\visual studio 2013\Projects\loops\loops\obj\Debug\loops.Properties.Resources.resources
+c:\users\james\documents\visual studio 2013\Projects\loops\loops\obj\Debug\loops.csproj.GenerateResource.Cache
+c:\users\james\documents\visual studio 2013\Projects\loops\loops\obj\Debug\loops.exe
+c:\users\james\documents\visual studio 2013\Projects\loops\loops\obj\Debug\loops.pdb
+C:\Users\James\Desktop\Projects\loops\loops\bin\Debug\loops.exe.config
+C:\Users\James\Desktop\Projects\loops\loops\obj\Debug\loops.exe
+C:\Users\James\Desktop\Projects\loops\loops\obj\Debug\loops.pdb
+C:\Users\James\Desktop\Projects\loops\loops\bin\Debug\loops.exe
+C:\Users\James\Desktop\Projects\loops\loops\bin\Debug\loops.pdb
+C:\Users\James\Desktop\Projects\loops\loops\obj\Debug\loops.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Projects\loops\loops\obj\Debug\loops.Form1.resources
+C:\Users\James\Desktop\Projects\loops\loops\obj\Debug\loops.Properties.Resources.resources
+C:\Users\James\Desktop\Projects\loops\loops\obj\Debug\loops.csproj.GenerateResource.Cache
